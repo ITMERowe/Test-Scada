@@ -1,0 +1,73 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "About Muhammad Hanif Atthariq";
+}
+
+<h2>About Muhammad Hanif Atthariq</h2>
+
+<div class="profile-container">
+    <div class="profile-card">
+        <h3>Summary</h3>
+        <p>IT Support and Game Developer with expertise in Unity and C#. Passionate about both IT troubleshooting and game development.</p>
+    </div>
+
+    <div class="profile-card">
+        <h3>Experience</h3>
+        <ul>
+            <li><strong>PT. Duta Basis Dataprima</strong> - IT Support (Nov 2023 - Dec 2024)</li>
+            <li><strong>Animesme</strong> - Part-Time Game Developer (May 2024 - Sep 2024)</li>
+            <li><strong>Dark Hydra Studio</strong> - Jr. Game Developer (June 2023 - Nov 2023)</li>
+        </ul>
+    </div>
+
+    <div class="profile-card">
+        <h3>Education</h3>
+        <p>Diponegoro University, Bachelor of Engineering - Computer Engineering (2017 - 2022)</p>
+    </div>
+
+    <div class="profile-card">
+        <h3>Skills</h3>
+        <ul>
+            <li>Unity</li>
+            <li>C#</li>
+            <li>Game Development</li>
+        </ul>
+    </div>
+
+    <div class="profile-card">
+        <h3>Contact</h3>
+        <p>Email: <a href="mailto:hanifatthariq2@gmail.com">hanifatthariq2@gmail.com</a></p>
+        <p>Phone: 0818222606</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/muhammad-hanif-atthariq-4a2884260" target="_blank">Muhammad Hanif Atthariq</a></p>
+    </div>
+</div>
+
+<style>
+    h2 {
+        text-align: center; /* Center the header */
+        font-family: 'Arial', sans-serif; /* Professional font */
+        font-size: 2rem; /* Bigger font size for emphasis */
+        font-weight: 600; /* Slightly bolder for a more professional look */
+        margin-bottom: 30px; /* Space between header and charts */
+    }
+    
+    .profile-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        padding: 20px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .profile-card {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+    .profile-card h3 {
+        margin-bottom: 10px;
+        color: #333;
+    }
+</style>

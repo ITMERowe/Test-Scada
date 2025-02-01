@@ -1,0 +1,62 @@
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.exe
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.deps.json
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.pdb
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Apache.Arrow.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Apache.Arrow.Flight.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\InfluxDB3.Client.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDB.170D6B2C.Up2Date
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\refint\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.pdb
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\test\InfluxDBApp\obj\Debug\net9.0\ref\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.exe
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.deps.json
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDBApp.pdb
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Apache.Arrow.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Apache.Arrow.Flight.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\InfluxDB3.Client.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDB.170D6B2C.Up2Date
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\refint\InfluxDBApp.dll
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.pdb
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\InfluxDBApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Scada test\test\InfluxDBApp\obj\Debug\net9.0\ref\InfluxDBApp.dll

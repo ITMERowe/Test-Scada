@@ -1,0 +1,236 @@
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\appsettings.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.staticwebassets.runtime.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.staticwebassets.endpoints.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.exe
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.deps.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.pdb
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Apache.Arrow.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Apache.Arrow.Flight.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB.Client.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB.Client.Core.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB3.Client.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\JsonSubTypes.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\NodaTime.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\NodaTime.Serialization.JsonNet.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\RestSharp.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\bundle\InfluxDBWebApp.styles.css
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\projectbundle\InfluxDBWebApp.bundle.scp.css
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zju7baz8qo-izcewdqeu2.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\pyayrxu6z5-b9sayid5wm.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\k367ls2jtp-61n19gt1b8.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\4kf1z8qzej-kf7ytbxz8i.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\asetf2eybs-bqjiyaj88i.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\fms5j2hry6-c2jlpeoesf.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3iowqyq1p4-erw9l3u2r3.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\uckzlccmw7-aexeepp0ev.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\xa4xsr0f2b-d7shbmvgxk.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\aiy87xuo44-ausgxo2sd3.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\p9zz1bdbxu-k8d9w2qqmf.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\anc8754gr2-cosvhxvwiu.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\px5kkpnj8l-ub07r2b239.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\wi9qc0lsxi-fvhpjtyr6v.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\c155wiwvf1-b7pk76d08c.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\to4voaxujm-fsbi9cje9m.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\dh2dtdxvjy-rzd6atqjts.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\kpf3umacsb-ee0r1s7dh0.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\hlrvi2e68d-dxx9fxp4il.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\v6niijsvq1-jd9uben2k1.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\rgmft9b63o-khv3u5hwcm.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\60r8qbimw0-r4e9w2rdcm.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\v66c8p3n1p-lcd1t2u6c8.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\frlucel9b5-c2oey78nd0.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\vi13h4sgf0-tdbxkamptv.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3jhksxfn4c-j5mq2jizvt.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\hq7uxhxd7a-06098lyss8.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\urg16fp18d-nvvlpmu67g.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\t2m15wlnqq-s35ty4nyc5.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ltg64cmn7o-pj5nd1wqec.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\5z1v9g6m79-46ein0sx1k.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\xo3qhbr8yl-v0zj4ognzu.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\1nip6bibnd-37tfw0ft22.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\9jzk0ti9bo-hrwsygsryq.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ahckhcpr9v-pk9g2wxc8p.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\tun4x2wrhw-ft3s53vfgj.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\6769zfwysc-6cfz1n2cew.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\yv7f4pihee-6pdc2jztkx.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\p2572idm5k-493y06b0oq.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ea1b9n5v3v-iovd86k7lj.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3otydzts5c-vr1egmr9el.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\90kbentbju-kbrnm935zg.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ceqlk1h72l-jj8uyg4cgr.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ijf9544knf-y7v9cxd14o.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3gnuu3krsc-notf2xhcfb.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\0njdg32jfw-h1s4sie4z3.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\nyt6ysijwu-63fj8s7r0e.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\45qifg8rlf-0j3bgjxly4.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\n5g0kq3qva-47otxtyo56.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\wdxv6mvid2-4v8eqarkd7.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\s6oa0qd2wq-356vix0kms.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\b1cuowek88-83jwlth58m.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3mpqbf73xb-mrlpezrjn3.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\udw4qevx5v-lzl9nlhx6b.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\i5yb2er00u-ag7o75518u.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\9wl1fosuce-x0q3zqp4vz.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\32p23wji0g-0i3buxo5is.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\92s5x50msp-o1o13a6vjx.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\avexq4cvoe-ttgo8qnofa.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zp4ikyee8m-2z0ns9nrw6.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\8cw5l8954l-muycvpuwrr.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\4jeuzjjmja-87fc7y1x7t.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zp4qeylj3i-mlv21k5csn.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\uaxaqb7c7n-wm860xy9es.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\5v52ddmbrx-wm860xy9es.gz
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.InfluxDBWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.InfluxDBWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.build.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDB.8D43A237.Up2Date
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\refint\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.pdb
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\webapp test\InfluxDBWebApp\obj\Debug\net9.0\ref\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\appsettings.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.staticwebassets.endpoints.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.staticwebassets.runtime.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.exe
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.deps.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDBWebApp.pdb
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Apache.Arrow.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Apache.Arrow.Flight.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB.Client.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB.Client.Core.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\InfluxDB3.Client.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\JsonSubTypes.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\NodaTime.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\NodaTime.Serialization.JsonNet.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\RestSharp.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\bundle\InfluxDBWebApp.styles.css
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\scopedcss\projectbundle\InfluxDBWebApp.bundle.scp.css
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zju7baz8qo-izcewdqeu2.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\pyayrxu6z5-b9sayid5wm.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\k367ls2jtp-61n19gt1b8.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\4kf1z8qzej-kf7ytbxz8i.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\asetf2eybs-bqjiyaj88i.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\fms5j2hry6-c2jlpeoesf.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3iowqyq1p4-erw9l3u2r3.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\uckzlccmw7-aexeepp0ev.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\xa4xsr0f2b-d7shbmvgxk.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\aiy87xuo44-ausgxo2sd3.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\p9zz1bdbxu-k8d9w2qqmf.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\anc8754gr2-cosvhxvwiu.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\px5kkpnj8l-ub07r2b239.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\wi9qc0lsxi-fvhpjtyr6v.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\c155wiwvf1-b7pk76d08c.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\to4voaxujm-fsbi9cje9m.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\dh2dtdxvjy-rzd6atqjts.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\kpf3umacsb-ee0r1s7dh0.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\hlrvi2e68d-dxx9fxp4il.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\v6niijsvq1-jd9uben2k1.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\rgmft9b63o-khv3u5hwcm.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\60r8qbimw0-r4e9w2rdcm.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\v66c8p3n1p-lcd1t2u6c8.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\frlucel9b5-c2oey78nd0.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\vi13h4sgf0-tdbxkamptv.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3jhksxfn4c-j5mq2jizvt.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\hq7uxhxd7a-06098lyss8.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\urg16fp18d-nvvlpmu67g.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\t2m15wlnqq-s35ty4nyc5.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ltg64cmn7o-pj5nd1wqec.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\5z1v9g6m79-46ein0sx1k.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\xo3qhbr8yl-v0zj4ognzu.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\1nip6bibnd-37tfw0ft22.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\9jzk0ti9bo-hrwsygsryq.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ahckhcpr9v-pk9g2wxc8p.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\tun4x2wrhw-ft3s53vfgj.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\6769zfwysc-6cfz1n2cew.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\yv7f4pihee-6pdc2jztkx.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\p2572idm5k-493y06b0oq.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ea1b9n5v3v-iovd86k7lj.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3otydzts5c-vr1egmr9el.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\90kbentbju-kbrnm935zg.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ceqlk1h72l-jj8uyg4cgr.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\ijf9544knf-y7v9cxd14o.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3gnuu3krsc-notf2xhcfb.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\0njdg32jfw-h1s4sie4z3.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\nyt6ysijwu-63fj8s7r0e.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\45qifg8rlf-0j3bgjxly4.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\n5g0kq3qva-47otxtyo56.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\wdxv6mvid2-4v8eqarkd7.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\s6oa0qd2wq-356vix0kms.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\b1cuowek88-83jwlth58m.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\3mpqbf73xb-mrlpezrjn3.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\udw4qevx5v-lzl9nlhx6b.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\i5yb2er00u-ag7o75518u.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\9wl1fosuce-x0q3zqp4vz.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\32p23wji0g-0i3buxo5is.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\92s5x50msp-o1o13a6vjx.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\avexq4cvoe-ttgo8qnofa.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zp4ikyee8m-2z0ns9nrw6.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\8cw5l8954l-muycvpuwrr.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\4jeuzjjmja-87fc7y1x7t.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\zp4qeylj3i-mlv21k5csn.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\uaxaqb7c7n-wm860xy9es.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\compressed\5v52ddmbrx-wm860xy9es.gz
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.InfluxDBWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.InfluxDBWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.build.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.InfluxDBWebApp.props
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDB.8D43A237.Up2Date
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\refint\InfluxDBWebApp.dll
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.pdb
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\InfluxDBWebApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Scada test\webapp test\InfluxDBWebApp\obj\Debug\net9.0\ref\InfluxDBWebApp.dll

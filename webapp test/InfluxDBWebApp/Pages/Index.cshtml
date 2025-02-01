@@ -1,0 +1,298 @@
+﻿@page
+@model InfluxDBWebApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "InfluxDB Dashboard";
+}
+
+<h2>InfluxDB Data Visualization</h2>
+
+<div class="charts-container">
+    <!-- Top Left Chart (Cores Active) -->
+    <div class="chart-container">
+        <h3>Cores Active</h3>
+        <canvas id="coresChart" class="chart"></canvas>
+    </div>
+    
+    <!-- Top Right Chart (Temperature) -->
+    <div class="chart-container">
+        <h3>Temperature (°C)</h3>
+        <canvas id="temperatureChart" class="chart"></canvas>
+    </div>
+    
+    <!-- Bottom Left Chart for Usage Percent (Doughnut) -->
+    <div class="chart-container">
+        <h3>CPU Usage</h3>
+        <canvas id="usageChart" class="chart"></canvas>
+        
+        <!-- Time Point Selection -->
+        <div class="time-selection">
+            <h3>Select Time:</h3>
+            <select id="timeSelect">
+                @foreach(var data in Model.CpuUsageData)
+                {
+                    <option value="@data.Time.ToString("HH:mm:ss")">@data.Time.ToString("HH:mm:ss")</option>
+                }
+            </select>
+        </div>
+    </div>
+    
+    <!-- Bottom Right Empty space for Text Information -->
+    <div class="text-info">
+        <h3>Additional Information</h3>
+        <p id="infoText">The graphs are showing data from InfluxDB that simulates CPU usage data</p>
+    </div>
+</div>
+
+<!-- Include Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    // Get Data from Razor Model
+    var coresActive = @Html.Raw(Json.Serialize(Model.CpuUsageData.Select(d => new { time = d.Time.ToString("HH:mm:ss"), cores = d.CoresActive })));
+    var temperatureData = @Html.Raw(Json.Serialize(Model.CpuUsageData.Select(d => new { time = d.Time.ToString("HH:mm:ss"), temp = d.Temperature })));
+    var usageData = @Html.Raw(Json.Serialize(Model.CpuUsageData.Select(d => new { time = d.Time.ToString("HH:mm:ss"), usage = d.UsagePercent })));
+
+    // Cores Active Bar Chart with a gradient color and hover effect
+    new Chart(document.getElementById('coresChart'), {
+        type: 'bar',
+        data: {
+            labels: coresActive.map(d => d.time),
+            datasets: [{
+                label: 'Cores Active',
+                data: coresActive.map(d => d.cores),
+                backgroundColor: function(context) {
+                    var gradient = context.chart.ctx.createLinearGradient(0, 0, 0, 400);
+                    gradient.addColorStop(0, '#3a8ecf');  // Deep blue
+                    gradient.addColorStop(1, '#00bcd4');  // Cyan
+                    return gradient;
+                },
+                borderColor: '#0097a7', // Deep cyan border
+                borderWidth: 1
+            }]
+        },
+        options: {
+            maintainAspectRatio: true,
+            responsive: true,
+            hover: {
+                mode: 'nearest',
+                intersect: false,
+                animationDuration: 200
+            },
+            scales: {
+                y: {
+                    min: 1,  // Set minimum value to 1
+                    max: 12, // Set maximum value to 12
+                }
+            },
+            plugins: {
+                tooltip: {
+                    enabled: true,
+                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                    titleColor: '#fff',
+                    bodyColor: '#fff',
+                    borderColor: '#fff',
+                    borderWidth: 1
+                }
+            }
+        }
+    });
+
+    // Temperature Line Chart with a gradient color and hover effect
+    new Chart(document.getElementById('temperatureChart'), {
+        type: 'line',
+        data: {
+            labels: temperatureData.map(d => d.time),
+            datasets: [{
+                label: 'Temperature (°C)',
+                data: temperatureData.map(d => d.temp),
+                borderColor: function(context) {
+                    var gradient = context.chart.ctx.createLinearGradient(0, 0, 0, 400);
+                    gradient.addColorStop(0, '#ff5722');  // Red
+                    gradient.addColorStop(1, '#ff9800');  // Orange
+                    return gradient;
+                },
+                fill: false,
+                borderWidth: 2,
+                tension: 0.4 // Smooth curve
+            }]
+        },
+        options: {
+            maintainAspectRatio: true,
+            responsive: true,
+            hover: {
+                mode: 'nearest',
+                intersect: false,
+                animationDuration: 200
+            },
+            scales: {
+                y: {
+                    min: 0,  // Set minimum value to 0
+                    max: 100, // Set maximum value to 100
+                }
+            },
+            plugins: {
+                tooltip: {
+                    enabled: true,
+                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                    titleColor: '#fff',
+                    bodyColor: '#fff',
+                    borderColor: '#fff',
+                    borderWidth: 1
+                }
+            }
+        }
+    });
+
+    // Doughnut Chart for Usage Percent with different color scheme and hover effect
+    var usageChart = new Chart(document.getElementById('usageChart'), {
+        type: 'doughnut',
+        data: {
+            labels: [`Used`, `Not Used`],
+            datasets: [{
+                label: 'CPU Usage (%)',
+                data: [usageData[0].usage, 100 - usageData[0].usage],
+                backgroundColor: [
+                    '#2ecc71', // Emerald Green for used
+                    '#e0e0e0'  // Light grey for unused
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            maintainAspectRatio: true,
+            responsive: true,
+            hover: {
+                mode: 'nearest',
+                intersect: false,
+                animationDuration: 200
+            },
+            plugins: {
+                tooltip: {
+                    enabled: true,
+                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                    titleColor: '#fff',
+                    bodyColor: '#fff',
+                    borderColor: '#fff',
+                    borderWidth: 1
+                }
+            }
+        }
+    });
+
+    // Handle time point change and update the doughnut chart accordingly
+    document.getElementById('timeSelect').addEventListener('change', function (e) {
+        var selectedTime = e.target.value;
+        var selectedData = usageData.find(d => d.time === selectedTime);  // Find the corresponding data point for the selected time
+
+        // Update the doughnut chart data with the selected usage percentage
+        usageChart.data.labels = [`Used`, `Not Used`];  // Keep labels the same
+        usageChart.data.datasets[0].data = [selectedData.usage, 100 - selectedData.usage];  // Update data (used vs not used)
+        usageChart.update();  // Re-render the chart with new data
+    });
+</script>
+
+<style>
+    h2 {
+        text-align: center; /* Center the header */
+        font-family: 'Arial', sans-serif; /* Professional font */
+        font-size: 2rem; /* Bigger font size for emphasis */
+        font-weight: 600; /* Slightly bolder for a more professional look */
+        margin-bottom: 30px; /* Space between header and charts */
+    }
+
+    /* Professional Grid Layout */
+    .charts-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr; /* 2 columns */
+        grid-template-rows: 0.2fr 0.4fr; /* 2 rows */
+        grid-template-areas: 
+            "chart1 chart2"
+            "chart3 text-info"; /* Adjusting layout for usage chart container */
+        gap: 20px;
+        padding: 20px;
+        width: 100%;
+        box-sizing: border-box;
+        height: 100vh;
+        overflow: hidden;
+        align-items: start;
+    }
+
+    .chart-container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+
+    .chart {
+        width: 100% !important;
+        height: 100%; /* Adjust chart height */
+        max-height: 400px;
+    }
+
+    #usageChart {
+        grid-area: chart3;
+        margin-top: -7px;
+        max-height: 280px;
+        width: 100%;
+        height: 70%;
+    }
+
+    .time-selection {
+        padding: 3px; /* Smaller padding */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 0.7rem; /* Smaller font size */
+        flex-direction: row; /* Stack label and select dropdown */
+        margin-top: 10px;
+    }
+
+    .time-selection h3 {
+        margin-bottom: 8px;
+        font-size: 1.2rem;
+    }
+
+    .time-selection select {
+        font-size: 1rem;
+        padding: 6px 10px;
+        border-radius: 5px;
+        margin-left: 5px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .text-info {
+    grid-area: text-info;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1rem;
+    transition: opacity 0.3s ease-in-out;
+    }
+
+    .text-info h3 {
+        margin-bottom: 10px;
+        color: #333;
+        font-weight: bold;
+    }
+
+    .text-info p {
+        color: #555;
+        font-size: 1rem;
+        max-width: 300px;
+    }
+</style>

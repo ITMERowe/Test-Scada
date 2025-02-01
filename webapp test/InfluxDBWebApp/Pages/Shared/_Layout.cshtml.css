@@ -1,0 +1,172 @@
+﻿
+/* Sidebar Styling */
+
+#sidebar {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  bottom: 0;
+
+  width: 200px; /* Default width */
+
+  background-color: #212529 !important;
+
+  border-right: 1px solid #444 !important;
+
+  padding-top: 20px;
+
+  box-shadow: 2px 0 15px rgba(0, 0, 0, 0.2) !important;
+
+  transition: width 0.4s ease, box-shadow 0.4s ease; /* Smoother sidebar width transition */
+
+  z-index: 1000;
+
+}
+
+
+
+/* Sidebar Toggle Button */
+
+#sidebar .sidebar-toggle {
+
+  padding: 10px;
+
+  display: flex;
+
+  justify-content: flex-start;
+
+  align-items: center;
+
+  margin-left: 15px;
+
+}
+
+
+
+#sidebar .sidebar-toggle #menu-toggle {
+
+  background-color: #007bff !important;
+
+  border: none;
+
+  padding: 12px;
+
+  font-size: 20px;
+
+  cursor: pointer;
+
+  margin-left: 10px;
+
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Added smooth transform */
+
+  border-radius: 5px;
+
+  color: #212529 !important;
+
+}
+
+#menu-toggle {
+  background-color: #007bff !important;
+  border: none;
+  padding: 12px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border-radius: 5px;
+  color: #212529 !important;
+}
+
+#menu-toggle:hover {
+  background-color: #005fa3 !important;
+}
+
+#menu-toggle:focus,
+#menu-toggle:active {
+  outline: none;
+  box-shadow: none;
+  transform: scale(1.05); /* Slightly scale up the button when active */
+}
+
+/* Sidebar Navigation */
+.sidebar-links {
+  padding-top: 20px;
+  font-size: 28px;
+  margin-left: 18px;
+  font-weight: bold;
+  color: white;
+  opacity: 0; /* Start hidden */
+  pointer-events: none; /* Prevent interaction while hidden */
+  transition: opacity 0.3s ease; /* Smooth appearance */
+}
+
+/* Page Content Styling */
+#page-content-wrapper {
+  margin-left: 200px;
+  padding: 20px;
+  transition: margin-left 0.4s ease; /* Smooth transition */
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Collapsed Sidebar */
+#sidebar.active {
+  width: 110px;  /* Reduced width to 110px when sidebar is collapsed */
+}
+
+#sidebar.active .sidebar-links {
+  opacity: 0; /* Hide links */
+  pointer-events: none;
+}
+
+#sidebar.active #menu-toggle {
+  margin-left: 10px;
+}
+
+#page-content-wrapper.active {
+  margin-left: 110px; /* Adjust for collapsed sidebar */
+}
+
+/* Expanded Sidebar */
+#sidebar:not(.active) .sidebar-links {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #sidebar {
+    width: 0;
+    overflow: hidden;
+    position: fixed;
+    height: 100vh;
+    transition: width 0.4s ease;
+  }
+
+  #sidebar.active {
+    width: 80%;
+    overflow: visible;
+  }
+
+  #page-content-wrapper {
+    margin-left: 0;
+    width: 100%; /* Prevents breaking */
+  }
+
+  /* Ensure toggle button is always accessible */
+  #menu-toggle {
+    background-color: #007bff !important;
+    border: none;
+    padding: 18px;
+    font-size: 24px !important;
+    border-radius: 5px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1100;
+  }
+}
