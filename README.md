@@ -1,8 +1,9 @@
 # InfluxDB Project
 
-This project consists of two applications:
+This project consists of:
 1. **Test Application (Data Writer)**: Writes data to InfluxDB.
 2. **Webapp Application (Data Visualization)**: Visualizes the data from InfluxDB in the form of graphs.
+3. **PowerPoint Presentation About InfluxDB**: an explanation of InfluxDB, its key concepts, benefits, and comparison with other databases.
 
 ## Prerequisites
 
